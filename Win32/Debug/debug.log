@@ -1,0 +1,38 @@
+[1109/100100:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1109/100158:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1109/101012:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1114/160615:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1114/160844:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1114/165209:WARNING:raw_channel_win.cc(529)] WriteFile: O pipe está sendo fechado. (0xE8)
+[1114/165209:WARNING:channel.cc(558)] Failed to send message to ack remove remote endpoint (local ID 2147483649, remote ID 3)
+[1114/165209:WARNING:channel.cc(322)] RawChannel write error
+[1114/165209:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown proxy
+[1114/165209:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
+[1114/165209:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize
+[1114/165939:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1114/165941:WARNING:raw_channel_win.cc(529)] WriteFile: O pipe está sendo fechado. (0xE8)
+[1114/165941:WARNING:channel.cc(558)] Failed to send message to ack remove remote endpoint (local ID 2147483649, remote ID 3)
+[1114/165941:WARNING:channel.cc(322)] RawChannel write error
+[1114/165941:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
+[1114/165941:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize
+[1127/163017:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1127/163107:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
+[1127/163107:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize
+[1127/170313:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1127/170320:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1127/170348:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
+[1127/170348:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize
+[1127/170616:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1127/170618:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
+[1127/170618:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize
+[1127/171505:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1127/171506:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
+[1127/171506:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize
+[1127/171606:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1127/171614:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown proxy
+[1127/171614:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
+[1127/171614:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize
+[1127/174620:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[1127/174622:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown proxy
+[1127/174622:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
+[1127/174622:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017/11/28 17:42:53.744,=C:\Users\joao\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/28 17:43:46.438,C:\Users\joao\Desktop\CPFCNPJ\UPrincipal.dfm=C:\Users\joao\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/11/28 17:43:46.438,C:\Users\joao\Desktop\CPFCNPJ\UPrincipal.pas=C:\Users\joao\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/28 17:43:50.629,C:\Users\joao\Desktop\CPFCNPJ\CPF_CNPJ.dproj=C:\Users\joao\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/11/28 17:52:10.626,C:\Users\joao\Desktop\CPFCNPJ\CPF_Chromium.dproj=C:\Users\joao\Desktop\CPFCNPJ\CPF_CNPJ.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
