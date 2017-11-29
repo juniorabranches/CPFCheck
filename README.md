@@ -1,6 +1,10 @@
 # CPFCheck
 Exemplo de consulta situação CPF com TChromium Componente
 
+![View this](Prints/1.PNG)
+![View this](Prints/2.PNG)
+![View this](Prints/3.PNG)
+
 # Chromium
 Estes são os componentes Delphi para incorporar o Chromium.
 
